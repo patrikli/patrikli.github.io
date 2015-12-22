@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Patrik L's hemsida
+title: Patriks hemsida
 email: patrik.l@bahnhof.se
 description: En blogg om livet som Patrik
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://patrikli.github.io/" # the base hostname & protocol for your site
 github_username:  patrikli
 
 # Build settings
