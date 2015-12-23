@@ -1,0 +1,38 @@
+---
+---
+
+@import "variables";
+@import "bootstrap";
+
+.icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+
+.main-content {
+	min-height: 70vh;
+	background-color: #00FFFFFF;
+}
+
+body { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.footer {
+	margin-top: 40px;
+	background-color: #fff;
+}
+
+.post {
+	max-width: 800px;
+	background-color: #fff;
+	padding: 30px;
+	margin-top: 40px;
+}
